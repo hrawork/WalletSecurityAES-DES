@@ -1,4 +1,4 @@
-# WalletSecurity AES & DES Encryption
+# WalletSecurity AES & DES Encryption / Decryption 
 
 A Windows Forms application developed in C# that provides encryption and decryption functionality for wallet security using **AES** and **DES** algorithms. 
 The app also supports multiple text format conversions including binary, decimal, hexadecimal, and Base64.
